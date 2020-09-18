@@ -1,0 +1,22 @@
+{
+  "name": "comfyhouse",
+  "version": "1.0.0",
+  "description": "Furniture Retailer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DafeOjoboh/ComfyHouse.git"
+  },
+  "author": "Dafe Ojoboh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DafeOjoboh/ComfyHouse/issues"
+  },
+  "homepage": "https://github.com/DafeOjoboh/ComfyHouse#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
